@@ -14,6 +14,8 @@ Also see my other reading list: [Readings in Databases](https://github.com/rxin/
 ## GC
 
 - [Understanding Garbage Collection](http://www.slideshare.net/dougqh/understanding-garbage-collection)
+- [Java Garbage Collection Basics](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
+- [Garbage Collection in Java](https://plumbr.io/handbook/garbage-collection-in-java)
 
 ## JIT
 
@@ -49,6 +51,10 @@ Also see my other reading list: [Readings in Databases](https://github.com/rxin/
 
 - http://www.slideshare.net/RednaxelaFX/green-teajug-hotspotintrinsics02232013
 
+
+## Tools
+
+- [xxfox](http://xxfox.perfma.com/)
 
 ## Java Memory Model
 
